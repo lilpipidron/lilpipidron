@@ -2,8 +2,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">ITMO student</h3>
 
-[![wakatime](https://wakatime.com/badge/user/1178afeb-a024-4b47-83bd-50b34d376ae1.svg)](https://wakatime.com/@1178afeb-a024-4b47-83bd-50b34d376ae1)
-
 ## Languages
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -17,3 +15,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lipipidron)](https://github.com/lipipidron/github-readme-stats)
 
+## Code time
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
