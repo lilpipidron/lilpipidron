@@ -17,11 +17,24 @@
 ## Operating Systems
 <p align="center">
   <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white" alt="Manjaro" />
+  <img src="https://img.shields.io/badge/EndeavourOS-0F73B4?style=for-the-badge&logo=Arch-Linux&logoColor=white" alt="EndeavourOS" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
 </p>
 
+## IDE's
+<p align="center">
+  <img src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white" />
+  <img src="https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white" />
+</p>
 
-## ✨Code time
+## Database
+
+<p align="center">
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+
+## Code time
 <!--START_SECTION:waka-->
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=lipipidron&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--END_SECTION:waka-->
