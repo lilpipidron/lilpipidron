@@ -9,8 +9,8 @@
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
 </p>
 <p align="center">
-  <a href="https://github.com/lipipidron/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipipidron" alt="Top Languages" />
+  <a href="https://github.com/lilpipidron/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilpipidron" alt="Top Languages" />
   </a>
 </p>
 
