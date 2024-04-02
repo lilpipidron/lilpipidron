@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/lilpipidron" target="_blank">Vadim</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">ITMO student</h3>
+<h3 align="center">Software Engineer</h3>
 
 ## Languages
 <p align="center">
