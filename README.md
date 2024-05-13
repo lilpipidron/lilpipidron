@@ -43,7 +43,13 @@
 </p>
 
 ## Code time
-<!--START_SECTION:waka-->
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=lipipidron&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!--END_SECTION:waka-->
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lipipidron&layout=compact&langs_count=10" alt="Wakatime Stats (Top 10 Languages)" />
+    </td>
+  </tr>
+</table>
+
+
 
