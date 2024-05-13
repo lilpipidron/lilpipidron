@@ -38,8 +38,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
-
-
+<p align = "center"> 
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lilpipidron&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+</p>
 ## Code time
 <!--START_SECTION:waka-->
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=lipipidron&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
