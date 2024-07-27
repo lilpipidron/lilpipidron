@@ -47,7 +47,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lipipidron&layout=compact&langs_count=10" alt="Wakatime Stats (Top 10 Languages)" />
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lilpipidron&layout=compact&langs_count=10" alt="Wakatime Stats (Top 10 Languages)" />
     </td>
   </tr>
 </table>
